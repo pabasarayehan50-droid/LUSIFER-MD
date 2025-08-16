@@ -3,13 +3,24 @@
 This is a WhatsApp bot built using the Baileys library for group management, including features like tagging all members, muting/unmuting, and many more. It's designed to help admins efficiently manage WhatsApp groups.
 
 <div align="center"> 
-  <a href="https://git.io/typing-svg"> 
-    <img src="<a "><img src="https://i.ibb.co/XrzR2GPf/bot-image.jpg" alt="bot-image" border="0"></a>" />
-  </a> 
+  <img src="https://i.ibb.co/XrzR2GPf/bot-image.jpg" alt="bot-image" border="0"/>
 </div> 
 
-<div align="center"> 
-  <a href="https://youtube.com/@demoneye_official">
+---
+
+## 🌟 Owner & Support
+
+<div align="center">
+
+| 🌟 Owner      | 🌐 Supported | 🔒 Code Protect |
+|--------------|-------------|----------------|
+| **LUCIFER**  | **GitHub**  | **Enabled**    |
+
+📺 **YouTube:** [@demoneye_official](https://youtube.com/@demoneye_official)  
+💬 **Telegram:** [Next_DYS](https://t.me/Next_DYS)  
+💻 **GitHub:** [DemonEye143](https://github.com/DemonEye143)  
+
+</div>
 
 ---
 
@@ -43,8 +54,7 @@ Deploy the bot and easily connect it to your WhatsApp account by pair code. Clic
   </a>
 </div>
 
-
-### After getting creds.json file, upload it to session folder
+**After getting `creds.json` file, upload it to the session folder.**
 
 ---
 
@@ -56,27 +66,16 @@ For further customization and setup guidance, click the button below:
   <a href="https://youtu.be/-oz_u1iMgf8">
     <img src="https://img.shields.io/badge/Deploy Tutorial-dc3545?style=for-the-badge&logo=youtube" alt="YouTube Link"/>
   </a>
-    <img src="https://img.shields.io/badge/Deploy on Panel-28a745?style=for-the-badge" alt="Deploy on Panel"/>
-  </a>
 </div>
 
+---
 
-### Deploy Now on Below Panel
+### Deploy on Panel
+
 <div align="center">
 <a href="https://dashboard.katabump.com/auth/login#d6b7d6" target="_blank">
   <img src="https://img.shields.io/badge/Katabump-D6B7D6?style=for-the-badge&logo=server&logoColor=black" alt="Katabump"/>
 </a>
-</div>
-
-### Join Us
-
-<div align="center">
-  <a href="https://t.me/Next_DYS">
-    <img src="https://img.shields.io/badge/Join%20Telegram-0078E7?style=for-the-badge&logo=telegram&logoColor=white" alt="Join Telegram"/>
-  </a>
-  <a href="https://whatsapp.com/channel/0029Vb6I0vu7j6fzT8MTfp1w">
-    <img src="https://img.shields.io/badge/Join%20WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="Join WhatsApp"/>
-  </a>
 </div>
 
 ---
@@ -99,29 +98,15 @@ This project is licensed under the [MIT License](https://opensource.org/licenses
 
 ---
 
-## 🌟 Show your support
-
-If you like this project, please give it a [⭐️ star on GitHub](https://github.com/DemonEye143/NET-HUNTER-LUCIFER.git)!
-
-
-## Credits
-
-
 ## ⚠️ Important Warning
 
 **Note:** This bot is created for educational purposes only. This is NOT an official WhatsApp bot. Using this bot may lead to your WhatsApp account being banned. Use it at your own risk. The developers will not be responsible for any consequences or account bans that may occur while using this bot.
 
-
-### License
-This project is licensed under the MIT License. However, you must:
-- Use this software in compliance with all applicable laws and regulations
-- Include original license and copyright notices
-- Credit original authors
-- Not use for spam or malicious purposes
+---
 
 ## 📜 Copyright Notice
 
-Copyright (c) 2025 Lucifer. All rights reserved.
+Copyright (c) 2025 **Lucifer**. All rights reserved.
 
 This project contains code from various open source projects:
 - Baileys (MIT License)
