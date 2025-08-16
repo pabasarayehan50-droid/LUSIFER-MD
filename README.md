@@ -1,10 +1,10 @@
-# 🤖 Knight Bot
+# 🤖 KNIGHT V2.0
 
 This is a WhatsApp bot built using the Baileys library for group management, including features like tagging all members, muting/unmuting, and many more. It's designed to help admins efficiently manage WhatsApp groups.
 
 <div align="center"> 
   <a href="https://git.io/typing-svg"> 
-    <img src="https://readme-typing-svg.demolab.com?font=Ribeye&size=50&pause=1000&color=33ff00&center=true&width=910&height=100&lines=Knight-Bot;Multi+Device+Whatsapp+Bot;Coded+By+Professor" alt="Typing SVG" />
+    <img src="<a href="https://ibb.co/XrzR2GPf"><img src="https://i.ibb.co/XrzR2GPf/bot-image.jpg" alt="bot-image" border="0"></a>" />
   </a> 
 </div> 
 
@@ -154,29 +154,16 @@ Contributions, issues, and feature requests are welcome! Feel free to check the 
 
 ## 🌟 Show your support
 
-If you like this project, please give it a [⭐️ star on GitHub](https://github.com/mruniquehacker/Knightbot)!
+If you like this project, please give it a [⭐️ star on GitHub]()!
 
 
 ## Credits
 
-- [Professor](https://github.com/mruniquehacker)
-- [Baileys](https://github.com/adiwajshing/Baileys)
-- [TechGod143](https://github.com/TechGod143) for pair code
-- [Dgxeon](https://github.com/Dgxeon) for pair code
-
----
 
 ## ⚠️ Important Warning
 
 **Note:** This bot is created for educational purposes only. This is NOT an official WhatsApp bot. Using this bot may lead to your WhatsApp account being banned. Use it at your own risk. The developers will not be responsible for any consequences or account bans that may occur while using this bot.
 
-## 📝 Legal
-
-- This project is not affiliated with, authorized, maintained, sponsored or endorsed by WhatsApp or any of its affiliates or subsidiaries.
-- This is an independent and unofficial software. Use at your own risk.
-- Do not spam people with this bot.
-- Do not use this bot to send bulk messages or for illegal purposes.
-- The developers assume no liability and are not responsible for any misuse or damage caused by this program.
 
 ### License
 This project is licensed under the MIT License. However, you must:
@@ -187,7 +174,7 @@ This project is licensed under the MIT License. However, you must:
 
 ## 📜 Copyright Notice
 
-Copyright (c) 2024 Professor. All rights reserved.
+Copyright (c) 2025 Lucifer. All rights reserved.
 
 This project contains code from various open source projects:
 - Baileys (MIT License)
