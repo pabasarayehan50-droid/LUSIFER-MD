@@ -3,7 +3,7 @@
 This is a WhatsApp bot built using the Baileys library for group management, including features like tagging all members, muting/unmuting, and many more. It's designed to help admins efficiently manage WhatsApp groups.
 
 <div align="center"> 
-  <a href="https://ibb.co/0NByYDD"><img src="https://i.ibb.co/4ysR4mm/Hacking-Hd-Wallpapers.jpg" alt="Hacking-Hd-Wallpapers" border="0"></a>
+  <a href="https://imgbb.com/"><img src="https://i.ibb.co/7d0WXkKv/c7bf7db9-d9c7-401a-a31f-d924a4b91d8c-2.jpg" alt="c7bf7db9-d9c7-401a-a31f-d924a4b91d8c-2" border="0"></a>
 </div> 
 
 ---
